@@ -1,0 +1,6 @@
+desktop.png
+mobile.png
+mobile-2x.png
+*.log
+.chrome-layout-audit/
+node_modules/
