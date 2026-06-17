@@ -13,9 +13,9 @@ const site = {
   baseUrl: "https://phong-thuy-phan-tam.vercel.app",
   facebook: "https://www.facebook.com/tamkieu.tuanquynhviet",
   messenger: "https://m.me/tamkieu.tuanquynhviet",
-  phoneDisplay: "0900 000 000",
-  phoneTel: "0900000000",
-  zalo: "https://zalo.me/0900000000",
+  phoneDisplay: "0925987301",
+  phoneTel: "0925987301",
+  zalo: "https://zalo.me/0925987301",
   image: "/assets/phan-tam-facebook.jpg"
 };
 
